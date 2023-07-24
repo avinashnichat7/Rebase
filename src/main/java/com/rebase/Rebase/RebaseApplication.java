@@ -11,6 +11,7 @@ public class RebaseApplication {
 		System.out.println("feature B");
 		System.out.println("master");
 		System.out.println("master A");
+		System.out.println("feature C");
 		SpringApplication.run(RebaseApplication.class, args);
 	}
 
