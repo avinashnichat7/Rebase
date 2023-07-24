@@ -12,6 +12,7 @@ public class RebaseApplication {
 		System.out.println("master");
 		System.out.println("master A");
 		System.out.println("feature C");
+		System.out.println("f-1-1");
 		SpringApplication.run(RebaseApplication.class, args);
 	}
 
